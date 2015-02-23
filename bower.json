@@ -1,0 +1,25 @@
+{
+  "name": "entypo-plus",
+  "description": "Carefully crafted premium pictograms by Daniel Bruce",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chancancode/entypo-plus.git"
+  },
+  "main": [
+      "css/entypo-plus.css",
+      "scss/entypo-plus.scss",
+      "fonts/entypo-plus.eot",
+      "fonts/entypo-plus.woff",
+      "fonts/entypo-plus.ttf",
+      "fonts/entypo-plus.svg"
+  ],
+  "license": [
+    "CC BY-SA 4.0"
+  ],
+  "ignore": [
+    "source",
+    "demo-files",
+    "demo.html",
+    "selection.json"
+  ]
+}
